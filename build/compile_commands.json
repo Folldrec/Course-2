@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/Programing/Course 2/build",
+  "command": "d:\\Programing\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Programing/Course 2/build/Lab_2_autogen/include\" -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtCore -isystem D:/Programing/Qt/6.10.0/mingw_64/include -isystem D:/Programing/Qt/6.10.0/mingw_64/mkspecs/win32-g++ -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtWidgets -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\Lab_2.dir\\Lab_2_autogen\\mocs_compilation.cpp.obj -c \"D:\\Programing\\Course 2\\build\\Lab_2_autogen\\mocs_compilation.cpp\"",
+  "file": "D:/Programing/Course 2/build/Lab_2_autogen/mocs_compilation.cpp",
+  "output": "D:/Programing/Course 2/build/CMakeFiles/Lab_2.dir/Lab_2_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/Programing/Course 2/build",
+  "command": "d:\\Programing\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Programing/Course 2/build/Lab_2_autogen/include\" -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtCore -isystem D:/Programing/Qt/6.10.0/mingw_64/include -isystem D:/Programing/Qt/6.10.0/mingw_64/mkspecs/win32-g++ -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtWidgets -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\Lab_2.dir\\main.cpp.obj -c \"D:\\Programing\\Course 2\\Lab_2\\main.cpp\"",
+  "file": "D:/Programing/Course 2/Lab_2/main.cpp",
+  "output": "D:/Programing/Course 2/build/CMakeFiles/Lab_2.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Programing/Course 2/build",
+  "command": "d:\\Programing\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Programing/Course 2/build/Lab_2_autogen/include\" -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtCore -isystem D:/Programing/Qt/6.10.0/mingw_64/include -isystem D:/Programing/Qt/6.10.0/mingw_64/mkspecs/win32-g++ -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtWidgets -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\Lab_2.dir\\MainWindow.cpp.obj -c \"D:\\Programing\\Course 2\\Lab_2\\MainWindow.cpp\"",
+  "file": "D:/Programing/Course 2/Lab_2/MainWindow.cpp",
+  "output": "D:/Programing/Course 2/build/CMakeFiles/Lab_2.dir/MainWindow.cpp.obj"
+},
+{
+  "directory": "D:/Programing/Course 2/build",
+  "command": "d:\\Programing\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Programing/Course 2/build/Lab_2_autogen/include\" -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtCore -isystem D:/Programing/Qt/6.10.0/mingw_64/include -isystem D:/Programing/Qt/6.10.0/mingw_64/mkspecs/win32-g++ -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtWidgets -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\Lab_2.dir\\Reference.cpp.obj -c \"D:\\Programing\\Course 2\\Lab_2\\Reference.cpp\"",
+  "file": "D:/Programing/Course 2/Lab_2/Reference.cpp",
+  "output": "D:/Programing/Course 2/build/CMakeFiles/Lab_2.dir/Reference.cpp.obj"
+},
+{
+  "directory": "D:/Programing/Course 2/build",
+  "command": "d:\\Programing\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Programing/Course 2/build/Lab_2_autogen/include\" -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtCore -isystem D:/Programing/Qt/6.10.0/mingw_64/include -isystem D:/Programing/Qt/6.10.0/mingw_64/mkspecs/win32-g++ -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtWidgets -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\Lab_2.dir\\Context.cpp.obj -c \"D:\\Programing\\Course 2\\Lab_2\\Context.cpp\"",
+  "file": "D:/Programing/Course 2/Lab_2/Context.cpp",
+  "output": "D:/Programing/Course 2/build/CMakeFiles/Lab_2.dir/Context.cpp.obj"
+},
+{
+  "directory": "D:/Programing/Course 2/build",
+  "command": "d:\\Programing\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Programing/Course 2/build/Lab_2_autogen/include\" -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtCore -isystem D:/Programing/Qt/6.10.0/mingw_64/include -isystem D:/Programing/Qt/6.10.0/mingw_64/mkspecs/win32-g++ -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtWidgets -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\Lab_2.dir\\DataManager.cpp.obj -c \"D:\\Programing\\Course 2\\Lab_2\\DataManager.cpp\"",
+  "file": "D:/Programing/Course 2/Lab_2/DataManager.cpp",
+  "output": "D:/Programing/Course 2/build/CMakeFiles/Lab_2.dir/DataManager.cpp.obj"
+},
+{
+  "directory": "D:/Programing/Course 2/build",
+  "command": "d:\\Programing\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Programing/Course 2/build/Lab_2_autogen/include\" -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtCore -isystem D:/Programing/Qt/6.10.0/mingw_64/include -isystem D:/Programing/Qt/6.10.0/mingw_64/mkspecs/win32-g++ -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtWidgets -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\Lab_2.dir\\ReferenceDialog.cpp.obj -c \"D:\\Programing\\Course 2\\Lab_2\\ReferenceDialog.cpp\"",
+  "file": "D:/Programing/Course 2/Lab_2/ReferenceDialog.cpp",
+  "output": "D:/Programing/Course 2/build/CMakeFiles/Lab_2.dir/ReferenceDialog.cpp.obj"
+},
+{
+  "directory": "D:/Programing/Course 2/build",
+  "command": "d:\\Programing\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Programing/Course 2/build/Lab_2_autogen/include\" -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtCore -isystem D:/Programing/Qt/6.10.0/mingw_64/include -isystem D:/Programing/Qt/6.10.0/mingw_64/mkspecs/win32-g++ -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtWidgets -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\Lab_2.dir\\ContextDialog.cpp.obj -c \"D:\\Programing\\Course 2\\Lab_2\\ContextDialog.cpp\"",
+  "file": "D:/Programing/Course 2/Lab_2/ContextDialog.cpp",
+  "output": "D:/Programing/Course 2/build/CMakeFiles/Lab_2.dir/ContextDialog.cpp.obj"
+},
+{
+  "directory": "D:/Programing/Course 2/build",
+  "command": "d:\\Programing\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/Programing/Course 2/build/Lab_2_autogen/include\" -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtCore -isystem D:/Programing/Qt/6.10.0/mingw_64/include -isystem D:/Programing/Qt/6.10.0/mingw_64/mkspecs/win32-g++ -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtWidgets -isystem D:/Programing/Qt/6.10.0/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\Lab_2.dir\\ExportDialog.cpp.obj -c \"D:\\Programing\\Course 2\\Lab_2\\ExportDialog.cpp\"",
+  "file": "D:/Programing/Course 2/Lab_2/ExportDialog.cpp",
+  "output": "D:/Programing/Course 2/build/CMakeFiles/Lab_2.dir/ExportDialog.cpp.obj"
+}
+]
