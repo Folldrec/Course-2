@@ -1,5 +1,0 @@
-D:/Programing/Course 2/build/CMakeFiles/Lab_2.dir
-D:/Programing/Course 2/build/CMakeFiles/edit_cache.dir
-D:/Programing/Course 2/build/CMakeFiles/rebuild_cache.dir
-D:/Programing/Course 2/build/CMakeFiles/Lab_2_autogen_timestamp_deps.dir
-D:/Programing/Course 2/build/CMakeFiles/Lab_2_autogen.dir
