@@ -54,8 +54,15 @@ void MainWindow::setupUI() {
     leftLayout->addWidget(addCtxButton);
     
     statsLabel = new QLabel(); 
-    statsLabel->setStyleSheet("padding: 10px; background-color: #f0f0f0; border-radius: 5px;");
-    leftLayout->addWidget(statsLabel);
+
+    statsLabel->setStyleSheet(
+        "padding: 15px; "
+        "background-color: #000000; "  
+        "color: #ffffff; "            
+        "border: 1px solid #333333; "
+        "border-radius: 5px; "
+        "font-size: 13px;"
+);    leftLayout->addWidget(statsLabel);
     
     mainLayout->addWidget(leftPanel);
     

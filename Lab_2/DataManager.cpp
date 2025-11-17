@@ -7,29 +7,7 @@
 
 DataManager::DataManager(QObject *parent) 
     : QObject(parent), nextRefId(1), nextCtxId(1) {
-    
-    Context ctx1;
-    ctx1.id = nextCtxId++;
-    ctx1.name = "OOP Course";
-    ctx1.parentId = -1;
-    contexts.append(ctx1);
-    
-    Context ctx2;
-    ctx2.id = nextCtxId++;
-    ctx2.name = "Design Patterns";
-    ctx2.parentId = ctx1.id;
-    contexts.append(ctx2);
-    
-    Reference ref1;
-    ref1.id = nextRefId++;
-    ref1.type = ReferenceType::Book;
-    ref1.title = "Design Patterns: Elements of Reusable Object-Oriented Software";
-    ref1.authors = "Gamma E., Helm R., Johnson R., Vlissides J.";
-    ref1.year = 1994;
-    ref1.publisher = "Addison-Wesley";
-    ref1.contextIds.append(ctx2.id);
-    ref1.comments = "Класична книга про патерни проектування";
-    references.append(ref1);
+        
 }
 
 void DataManager::addReference(const Reference& ref) {
