@@ -100,7 +100,6 @@ void ReferenceDialog::setupUI() {
     contextLayout->addWidget(contextList);
     mainLayout->addWidget(contextBox);
     
-    // Зв'язані посилання
     QGroupBox* relatedBox = new QGroupBox("Зв'язані посилання");
     QVBoxLayout* relatedLayout = new QVBoxLayout(relatedBox);
     

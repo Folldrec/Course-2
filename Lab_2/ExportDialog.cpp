@@ -43,7 +43,7 @@ void ExportDialog::setupUI() {
         infoText += QString("<br>За запитом: <b>%1</b>").arg(searchQuery);
     }
     infoLabel->setText(infoText);
-    infoLabel->setStyleSheet("padding: 10px; background-color: #e3f2fd; border-radius: 5px;");
+    infoLabel->setStyleSheet("padding: 10px; background-color: #000000ff; border-radius: 5px;");
     mainLayout->addWidget(infoLabel);
     
     mainLayout->addStretch();

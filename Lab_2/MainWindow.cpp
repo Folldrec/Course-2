@@ -288,7 +288,7 @@ void MainWindow::showReferenceDetails(Reference* ref) {
     }
     
     if (!ref->comments.isEmpty()) {
-        html += QString("<p style='background-color: #ffffcc; padding: 10px;'>"
+        html += QString("<p style='background-color: #000000ff; padding: 10px;'>"
                        "<b>Коментарі:</b><br>%1</p>").arg(ref->comments);
     }
     
